@@ -3,7 +3,14 @@
 2. To make any file=> touch file_name.extension_name
 
 
-#To upload folder to github
+#To setup git
 0. Download git from internet & install it
 1. To set user.name => git config --globle user.name "Rutuja Bhoge" 
 2. To set user.email => git config --globle user.email "rutujabhoge99@gmail.com"
+
+
+#To upload folder into github
+1. git init                  =>initialize git in folder
+2. git status                =>check status
+3. git add .                 =>add all untracked file to git as tracked file
+4. git commit -m "message"   =>to commit or save code
