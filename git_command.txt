@@ -10,7 +10,13 @@
 
 
 #To upload folder into github
-1. git init                  =>initialize git in folder
+1. git init                  =>initialize git in folder (use only one time)
+------------------------------------------------------------------------------
 2. git status                =>check status
 3. git add .                 =>add all untracked file to git as tracked file
 4. git commit -m "message"   =>to commit or save code
+5. git checkout .            =>to remove unsaved changes
+------------------------------------------------------------------------------------------------
+6. git add remote origin https://github.com/rutujsself/folder_name     =>to add remote github url (use only one time)
+------------------------------------------------------------------------------------------------
+7. git push origin master    =>to push master branch local code into github
