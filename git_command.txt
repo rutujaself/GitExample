@@ -1,0 +1,9 @@
+#Various commands
+1. To create folder=> mkdir folder_name 
+2. To make any file=> touch file_name.extension_name
+
+
+#To upload folder to github
+0. Download git from internet & install it
+1. To set user.name => git config --globle user.name "Rutuja Bhoge" 
+2. To set user.email => git config --globle user.email "rutujabhoge99@gmail.com"
